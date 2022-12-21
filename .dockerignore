@@ -1,0 +1,9 @@
+venv
+.env
+.vscode
+__pycache
+.git
+.gitignore
+.github
+Dockerfile
+README.md
